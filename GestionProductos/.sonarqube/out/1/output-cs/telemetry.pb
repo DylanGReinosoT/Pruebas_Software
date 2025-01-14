@@ -1,0 +1,1 @@
+…RoC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\TestProjectProductos\TestProjectProductos.csproj¢net8.0òCSharp12

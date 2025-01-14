@@ -1,0 +1,1 @@
+}RgC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\GestionProductos.csproj¢net8.0òCSharp12

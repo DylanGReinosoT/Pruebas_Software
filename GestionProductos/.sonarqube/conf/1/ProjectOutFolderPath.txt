@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\.sonarqube\out\1

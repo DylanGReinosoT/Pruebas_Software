@@ -1,0 +1,15 @@
+†
+îC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\obj\Debug\net8.0\GestionProductos.MvcApplicationPartsAssemblyInfo.csutf-8ç
+ÅC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\obj\Debug\net8.0\GestionProductos.AssemblyInfo.csutf-8õ
+èC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8è
+ÉC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\obj\Debug\net8.0\GestionProductos.GlobalUsings.g.csutf-8k
+bC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\WeatherForecast.csutf-8c
+ZC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Program.csutf-8Ç
+wC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Migrations\AppDBContextModelSnapshot.csutf-8í
+ÜC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Migrations\20250114123602_InitialMigration.Designer.csutf-8Ü
+}C:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Migrations\20250114123602_InitialMigration.csutf-8è
+ÉC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Migrations\20250109133940_InitialCreate.Designer.csutf-8É
+zC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Migrations\20250109133940_InitialCreate.csutf-8Å
+xC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Controllers\WeatherForecastController.csutf-8{
+rC:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\Controllers\ProductosController.csutf-8h
+_C:\Users\Admin\source\repos\Testing_SonarQube\GestionProductos\GestionProductos\AppDBContext.csutf-8
